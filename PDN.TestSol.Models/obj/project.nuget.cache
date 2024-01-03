@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WoJ8kBxjlyL28N6vB2iGBtOouZrVSCaYB6XF0AVA5HzgTZOa54A7xXTkDWuhaxxFfyb0Z5KKw/K5hbu9qz7Hqw==",
+  "dgSpecHash": "ba9wz1ZxQSiBVaoEDWjfygPaQ+PfUPB5tO1fGlpvTd3isWN4xaku3o/OXWZskO+Ccq25ieurikvTjX0TT+jqsg==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj",
+  "projectFilePath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\melcuevas\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\melcuevas\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

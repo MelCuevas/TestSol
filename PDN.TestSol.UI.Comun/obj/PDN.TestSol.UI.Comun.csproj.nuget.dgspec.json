@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj": {}
+    "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj": {}
   },
   "projects": {
-    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
+    "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj",
         "projectName": "PDN.TestSol.Modelos",
-        "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj",
+        "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj",
         "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj": {
+    "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj",
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj",
         "projectName": "PDN.TestSol.UI.Comun",
-        "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj",
+        "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj",
         "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
-        "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\obj\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.UI.Comun\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
-                "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj"
+              "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj"
               }
             }
           }

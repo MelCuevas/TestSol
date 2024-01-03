@@ -3164,11 +3164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj",
       "projectName": "PDN.TestSol.Negocio",
-      "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj",
       "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3185,11 +3185,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj"
+            "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj"
             },
-            "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj"
+            "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj"
             }
           }
         }

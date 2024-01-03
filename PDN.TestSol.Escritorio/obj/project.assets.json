@@ -4395,11 +4395,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Escritorio\\PDN.TestSol.UI.Escritorio.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Escritorio\\PDN.TestSol.UI.Escritorio.csproj",
       "projectName": "PDN.TestSol.UI.Escritorio",
-      "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Escritorio\\PDN.TestSol.UI.Escritorio.csproj",
+      "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Escritorio\\PDN.TestSol.UI.Escritorio.csproj",
       "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Escritorio\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Escritorio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4416,11 +4416,11 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj"
+            "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj"
             },
-            "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj": {
-              "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj"
+            "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj": {
+              "projectPath": "\\\\Mac\\Home\\Documents\\PDN2\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj"
             }
           }
         }
