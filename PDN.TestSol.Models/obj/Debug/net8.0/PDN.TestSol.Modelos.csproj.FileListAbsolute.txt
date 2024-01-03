@@ -10,3 +10,16 @@
 \\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\refint\PDN.TestSol.Modelos.dll
 \\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.pdb
 \\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\ref\PDN.TestSol.Modelos.dll
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\bin\Debug\net8.0\PDN.TestSol.Modelos.deps.json
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\bin\Debug\net8.0\PDN.TestSol.Modelos.dll
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\bin\Debug\net8.0\PDN.TestSol.Modelos.pdb
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.AssemblyInfo.cs
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.sourcelink.json
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.dll
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\refint\PDN.TestSol.Modelos.dll
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\PDN.TestSol.Modelos.pdb
+\\Mac\Home\Documents\PDN2\TestSol\PDN.TestSol.Models\obj\Debug\net8.0\ref\PDN.TestSol.Modelos.dll
