@@ -1,0 +1,15 @@
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\bin\Debug\net8.0\PDN.TestSol.Datos.deps.json
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\bin\Debug\net8.0\PDN.TestSol.Datos.dll
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\bin\Debug\net8.0\PDN.TestSol.Datos.pdb
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\bin\Debug\net8.0\PDN.TestSol.Modelos.dll
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\bin\Debug\net8.0\PDN.TestSol.Modelos.pdb
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\PDN.TestSol.Datos.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\PDN.TestSol.Datos.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\PDN.TestSol.Datos.AssemblyInfoInputs.cache
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\PDN.TestSol.Datos.AssemblyInfo.cs
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\PDN.TestSol.Datos.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\PDN.TestSol.Datos.csproj.CopyComplete
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\PDN.TestSol.Datos.dll
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\refint\PDN.TestSol.Datos.dll
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\PDN.TestSol.Datos.pdb
+\\Mac\Home\Documents\PDN\TestSol\PDN.TestSol.DataAccess\obj\Debug\net8.0\ref\PDN.TestSol.Datos.dll

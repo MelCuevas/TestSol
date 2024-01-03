@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PDN.TestSol.Escritorio/1.0.0": {
+        "dependencies": {
+          "PDN.TestSol.UI.Comun": "1.0.0"
+        },
+        "runtime": {
+          "PDN.TestSol.Escritorio.dll": {}
+        }
+      },
+      "PDN.TestSol.Modelos/1.0.0": {
+        "runtime": {
+          "PDN.TestSol.Modelos.dll": {}
+        }
+      },
+      "PDN.TestSol.UI.Comun/1.0.0": {
+        "dependencies": {
+          "PDN.TestSol.Modelos": "1.0.0"
+        },
+        "runtime": {
+          "PDN.TestSol.UI.Comun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PDN.TestSol.Escritorio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PDN.TestSol.Modelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PDN.TestSol.UI.Comun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

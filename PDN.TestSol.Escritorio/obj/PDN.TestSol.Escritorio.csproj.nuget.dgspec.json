@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Escritorio\\PDN.TestSol.Escritorio.csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj",
+        "projectName": "PDN.TestSol.Datos",
+        "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj",
+        "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Escritorio\\PDN.TestSol.Escritorio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Escritorio\\PDN.TestSol.Escritorio.csproj",
+        "projectName": "PDN.TestSol.Escritorio",
+        "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Escritorio\\PDN.TestSol.Escritorio.csproj",
+        "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Escritorio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj"
+              },
+              "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj",
+        "projectName": "PDN.TestSol.Modelos",
+        "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj",
+        "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj",
+        "projectName": "PDN.TestSol.Negocio",
+        "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\PDN.TestSol.Negocio.csproj",
+        "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.DataAccess\\PDN.TestSol.Datos.csproj"
+              },
+              "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj",
+        "projectName": "PDN.TestSol.UI.Comun",
+        "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\PDN.TestSol.UI.Comun.csproj",
+        "packagesPath": "C:\\Users\\melcuevas\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.UI.Comun\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\melcuevas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj": {
+                "projectPath": "\\\\Mac\\Home\\Documents\\PDN\\TestSol\\PDN.TestSol.Models\\PDN.TestSol.Modelos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
